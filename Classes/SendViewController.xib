@@ -886,7 +886,6 @@
 							<string>UITextField</string>
 							<string>UITextField</string>
 							<string>UITextField</string>
-							<string>UITextField</string>
 						</object>
 					</object>
 					<object class="NSMutableDictionary" key="toOneOutletInfosByName">
